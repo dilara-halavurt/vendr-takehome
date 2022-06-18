@@ -10,10 +10,10 @@
   },
   "dependencies": {
     "axios": "0.27.2",
-    "node-fetch": "3.2.6",
     "got": "12.1.0",
-    "vercel":"25.1.0"
- },
+    "node-fetch": "3.2.6",
+    "vercel": "25.1.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/dilara-halavurt/vendr-takehome.git"
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/dilara-halavurt/vendr-takehome/issues"
   },
-  "homepage": "https://github.com/dilara-halavurt/vendr-takehome#readme"
+  "homepage": "https://github.com/dilara-halavurt/vendr-takehome#readme",
+  "devDependencies": {
+    "@types/react-swipeable": "^5.2.0"
+  }
 }
