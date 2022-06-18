@@ -1,0 +1,19 @@
+{
+  "name": "vendr-takehome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dilara-halavurt/vendr-takehome.git"
+  },
+  "author": "Dilara Halavurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilara-halavurt/vendr-takehome/issues"
+  },
+  "homepage": "https://github.com/dilara-halavurt/vendr-takehome#readme"
+}
